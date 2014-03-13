@@ -91,3 +91,12 @@
 [submodule "bundle/vim-snipmate"]
 	path = bundle/vim-snipmate
 	url = git@github.com:garbas/vim-snipmate.git
+[submodule "bundle/vim-perl"]
+	path = bundle/vim-perl
+	url = https://github.com/vim-perl/vim-perl.git
+[submodule "bundle/perlomni.vim"]
+	path = bundle/perlomni.vim
+	url = https://github.com/c9s/perlomni.vim.git
+[submodule "bundle/perlcritic-compiler-script"]
+	path = bundle/perlcritic-compiler-script
+	url = https://github.com/vim-scripts/perlcritic-compiler-script.git
